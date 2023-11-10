@@ -101,6 +101,8 @@ r2 value
 
 
 data prediction
+
+
 ![image](https://github.com/Hemaprasad-N/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/135933397/3f46d904-3fb8-4e82-8d92-ee4ac12ab54c)
 
 
